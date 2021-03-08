@@ -1,0 +1,6 @@
+﻿  Restaurant.cpp
+  Takeout.cpp
+  main.cpp
+D:\project\klxh design\klxh CPP design\main.cpp(422,16): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  klxh CPP design.vcxproj -> D:\project\klxh design\klxh CPP design\Debug\klxh CPP design.exe
